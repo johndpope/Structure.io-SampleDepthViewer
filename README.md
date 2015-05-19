@@ -1,1 +1,1 @@
-# Stricture.io-SampleDepthViewer
+# Structure.io-SampleDepthViewer
